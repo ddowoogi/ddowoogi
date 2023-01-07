@@ -12,6 +12,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div align=center><h1>📚 STAT</h1></di>
+<div align=center><h1> STATS</h1></di>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddowoogi&&show_icons=true&theme=dark)]
