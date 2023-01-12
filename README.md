@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-<div align=center><h1>👋 STATS</h1></div>
+<div align=center><h1>📚 STATS</h1></div>
 
-![ddowoogi's github stats](https://github-readme-stats.vercel.app/api?username=ddowoogi&show_icons=true&theme=radical)
+[![ddowoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddowoogi)](https://github.com/ddowoogi/github-readme-stats)
