@@ -13,6 +13,4 @@
 </div>
 <div align=center><h1>📚 STATS</h1></div>
 
-[![ddowoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddowoogi)](https://github.com/ddowoogi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddowoogi&langs_count=8)](https://github.com/ddowoogi/github-readme-stats)
+[![ddowoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddowoogi)](https://github.com/ddowoogi/github-readme-stats)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddowoogi&langs_count=8)](https://github.com/ddowoogi/github-readme-stats)
